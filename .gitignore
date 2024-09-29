@@ -10,5 +10,6 @@
 /.umi-test
 /dist
 /.mfsu
+/static
 .swc
 .DS_Store
